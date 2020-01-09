@@ -1,0 +1,14 @@
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\bin\Debug\netcoreapp2.1\PRJ.deps.json
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\bin\Debug\netcoreapp2.1\PRJ.runtimeconfig.json
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\bin\Debug\netcoreapp2.1\PRJ.runtimeconfig.dev.json
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\bin\Debug\netcoreapp2.1\PRJ.dll
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\bin\Debug\netcoreapp2.1\PRJ.pdb
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\obj\Debug\netcoreapp2.1\PRJ.csproj.CoreCompileInputs.cache
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\obj\Debug\netcoreapp2.1\PRJ.AssemblyInfoInputs.cache
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\obj\Debug\netcoreapp2.1\PRJ.AssemblyInfo.cs
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\obj\Debug\netcoreapp2.1\PRJ.dll
+C:\onedrive\cameron.sharratt\Documents\Projects\AutomationFramework\PRJ\obj\Debug\netcoreapp2.1\PRJ.pdb
